@@ -1,13 +1,15 @@
 <div align="center">
 
-  <!-- Animated High-Tech Banner -->
+  <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Praveena+Sugumaran+%E2%9A%A1;Sr.+AWS+DevOps+Engineer;Ethereum+Validator+Infrastructure+Specialist;Terraform+%7C+Kubernetes+%7C+EKS+%7C+DevSecOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Hi%2C+I'm+Praveena+Sugumaran;Sr.+AWS+DevOps+%26+Cloud+Architect;Ethereum+Validator+Infrastructure+Specialist;Terraform+%7C+Kubernetes+%7C+EKS+%7C+DevSecOps" alt="Typing SVG" />
   </a>
 
-  <br />
+  <p align="center">
+    <b>Building Scalable Cloud Systems • Automating DevSecOps • Operating Decentralized Infrastructure</b>
+  </p>
 
-  <!-- Interactive Social Pills -->
+  <!-- Interactive Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/praveena-sugumaran-3b9b61335/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,6 +20,7 @@
     <a href="#">
       <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-00C7B7?style=for-the-badge&logo=googlemaps&logoColor=white" />
     </a>
+    <img src="https://img.shields.io/badge/AWS-DevOps%20Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </p>
 
 </div>
@@ -33,15 +36,15 @@
 └─$ cat about_me.json
 {
   "name": "Praveena Sugumaran",
-  "title": "Senior AWS DevOps Engineer | Blockchain Infrastructure Specialist",
-  "degree": "B.Sc Mathematics (Jayaraj Annapackiam College | CGPA: 7.51)",
+  "role": "Senior AWS DevOps Engineer | Blockchain Infrastructure Specialist",
+  "education": "B.Sc Mathematics (Jayaraj Annapackiam College | CGPA: 7.51)",
   "certifications": ["AWS DevOps Certified Specialist"],
-  "current_role": "Sr. DevOps Engineer @ Suntrion Technosol Private Ltd",
-  "core_focus": [
+  "current_company": "Sr. DevOps Engineer @ Suntrion Technosol Private Ltd",
+  "core_competencies": [
     "AWS Multi-Environment Infrastructure Automation (Terraform IaC)",
     "Container Orchestration & Serverless Architecture (EKS, ECS Fargate)",
     "DevSecOps Continuous Delivery (Jenkins, SonarQube, ArgoCD, Trivy)",
-    "Blockchain Validator Node Operations (Ethereum CL/EL, Web3Signer)"
+    "Blockchain Validator Node Operations (Ethereum CL/EL, Web3Signer, Lido CSM)"
   ]
 }
       </pre>
@@ -55,56 +58,56 @@
 
 <div align="center">
 
-| Ecosystem | Tools & Technologies |
+| Domain | Tech Stack & Tools |
 | :--- | :--- |
-| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,terraform,ansible&theme=dark" height="38"/> <br/> `EC2` `S3` `VPC` `ECS Fargate` `EKS` `RDS PostgreSQL` `Route53` `Secrets Manager` |
-| **Containers & K8s** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,argocd&theme=dark" height="38"/> <br/> `Kubernetes Deployments` `Helm Charts` `EKS Cluster Governance` |
-| **DevSecOps & CI/CD** | <img src="https://skillicons.dev/icons?i=jenkins,git,github&theme=dark" height="38"/> <br/> `SonarQube Static Analysis` `Trivy Scanner` `Vault` `Certbot TLS` |
-| **Monitoring & Logs** | <img src="https://skillicons.dev/icons?i=prometheus,grafana,splunk&theme=dark" height="38"/> <br/> `CloudWatch Metrics & Alarms` `SNS Alerts` |
-| **Blockchain Nodes** | <img src="https://skillicons.dev/icons?i=ethereum,postgres&theme=dark" height="38"/> <br/> `Teku (Consensus Layer)` `Besu (Execution Layer)` `Web3Signer` `Lido CSM` |
+| **Cloud & IaC** | <img src="https://skillicons.dev/icons?i=aws,terraform,ansible&theme=dark" height="40"/> <br/> `EC2` `S3` `VPC` `ECS Fargate` `EKS` `RDS PostgreSQL` `Route53` `Secrets Manager` |
+| **Containers & K8s** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,argocd&theme=dark" height="40"/> <br/> `Kubernetes Deployments` `Helm Charts` `EKS Cluster Governance` |
+| **DevSecOps & CI/CD** | <img src="https://skillicons.dev/icons?i=jenkins,git,github&theme=dark" height="40"/> <br/> `SonarQube` `Trivy Scanner` `HashiCorp Vault` `Certbot TLS` |
+| **Monitoring & Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana,splunk&theme=dark" height="40"/> <br/> `CloudWatch Metrics & Alarms` `SNS Alerts` |
+| **Blockchain Operations** | <img src="https://skillicons.dev/icons?i=ethereum,postgres&theme=dark" height="40"/> <br/> `Teku (Consensus Layer)` `Besu (Execution Layer)` `Web3Signer` `Lido CSM` |
 
 </div>
 
 ---
 
-## 🚀 Key Production Architectures & Engineering Highlights
+## 🚀 Key Production Architectures & Achievements
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Sunvista – HealthCare Cloud Infrastructure</h3>
+      <h3>🏥 Sunvista – Healthcare Cloud Infrastructure</h3>
       <i>AWS • Terraform • ECS Fargate • PostgreSQL • Redis • DevSecOps</i>
       <ul>
-        <li><b>Modular IaC:</b> Engineered end-to-end multi-environment AWS infrastructure using reusable Terraform modules[cite: 2].</li>
-        <li><b>Cost Reduction:</b> Configured automated S3 lifecycle transitions (<code>Standard ➔ Glacier Instant ➔ Deep Archive</code>) reducing DICOM medical storage overhead[cite: 2].</li>
-        <li><b>Zero-Downtime Microservices:</b> Automated backend/frontend deployments on ECS Fargate with CloudMap discovery and target-tracking auto-scaling[cite: 2].</li>
+        <li><b>Modular IaC:</b> Engineered end-to-end multi-environment AWS infrastructure using reusable Terraform modules.</li>
+        <li><b>Cost Optimization:</b> Automated S3 lifecycle rules (<code>Standard ➔ Glacier Instant ➔ Deep Archive</code>) reducing DICOM medical storage overhead significantly.</li>
+        <li><b>Zero-Downtime Architecture:</b> Deployed backend/frontend microservices on ECS Fargate with CloudMap discovery and target-tracking auto-scaling.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>⛓️ Ethereum Validator & Lido CSM Operations</h3>
       <i>Ethereum CL/EL • Web3Signer • Vault • Grafana • Prometheus</i>
       <ul>
-        <li><b>Node Management:</b> Deployed and managed production validator nodes combining Teku (CL) & Besu (EL) clients[cite: 2].</li>
-        <li><b>Security & Signing:</b> Configured Web3Signer backed by HashiCorp Vault for HSM multi-signature key operations[cite: 2].</li>
-        <li><b>Slashing Prevention:</b> Custom Prometheus & Grafana alert suites for attestation monitoring and MEV optimization[cite: 2].</li>
+        <li><b>Node Management:</b> Deployed and managed production validator nodes combining Teku (CL) & Besu (EL) clients.</li>
+        <li><b>Security & Key Management:</b> Configured Web3Signer backed by HashiCorp Vault for secure HSM key operations.</li>
+        <li><b>Slashing Prevention:</b> Developed custom Prometheus & Grafana alert suites for attestation monitoring and MEV optimization.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☸️ Java Microservice Delivery on AWS EKS</h3>
+      <h3>☸️ Java Microservices CI/CD on AWS EKS</h3>
       <i>AWS EKS • Docker • Jenkins • ECR • SonarQube • Maven</i>
       <ul>
-        <li><b>DevSecOps Pipelines:</b> Automated Maven builds with SonarQube quality gate verification inside Jenkins[cite: 2].</li>
-        <li><b>Container Orchestration:</b> Built and pushed images to AWS ECR, orchestrating deployments to AWS EKS[cite: 2].</li>
+        <li><b>Automated Quality Gates:</b> Integrated Maven builds with SonarQube static analysis directly into Jenkins pipelines.</li>
+        <li><b>Container Orchestration:</b> Automated image builds, pushed artifacts to AWS ECR, and orchestrated zero-downtime rolling updates on AWS EKS.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🔄 Multi-Region DR Synchronization</h3>
       <i>AWS Route 53 • RDS Cross-Region Replication • CloudWatch</i>
       <ul>
-        <li><b>High Availability:</b> Engineered active/passive failover automation across multi-region AWS environments[cite: 2].</li>
-        <li><b>Proven Business Metric:</b> Slashed Disaster Recovery Time Objective (RTO) <b>from 48 hours to 2 hours</b>[cite: 2].</li>
+        <li><b>High Availability:</b> Engineered active/passive cross-region automated failover setup.</li>
+        <li><b>Core Business Impact:</b> Dramatically reduced Disaster Recovery Time Objective (RTO) <b>from 48 hours to just 2 hours</b>.</li>
       </ul>
     </td>
   </tr>
@@ -112,7 +115,7 @@
 
 ---
 
-## 📊 Live Metrics & GitHub Performance
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
 
